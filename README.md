@@ -10,4 +10,5 @@ Solutions and scripts from Mastering Software Development with R Specialization 
 - **04_Building_Data_Visualization_Tools/geom_hurricane.R** - code for creating a new ggplot2 geom for plotting hurricanes on a map
 
 Data files and some scripts for generating outputs that were provided as part of the instructions are not included in the repository, it's assumed course participants can download them themselves and add /data folders where necessary or access instructions if necessary.
-Course 3 week 4 assignment was building an R package using functions from a previous assignment and posting it on github, therefore the solution has been put in a separate repository here: INSERT LINK WHEN FINISHED
+
+Course 3 week 4 assignment was building an R package using functions from a previous assignment and posting it on github, therefore the solution has been put in a separate repository here: ADD LINK WHEN FINISHED
