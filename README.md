@@ -6,7 +6,6 @@ Solutions and scripts from Mastering Software Development with R Specialization 
 - **02_Advanced_R_Programming/factorial_microbenchmark.R** - code for comparing the 4 factorial functions using microbenchmark package
 - **02_Advanced_R_Programming/factorial_output.txt** - results of comparins the 4 factorial functions using microbenchmark (required to submit the assigment)
 - **02_Advanced_R_Programming/oop_code.R** - code for setting classes and methods in order to get the rewuired output based on the script and data provided
-- **02_Advanced_R_Programming/oop_output.R** - code for generating the output using oop_code.R copied from the assignment
 - **03_Building_R_Packages/fars_functions.R** - functions that had to be documented for the 2nd peer reviewed assignment and later used in the 4th assignment to build an R package
 - **04_Building_Data_Visualization_Tools/geom_hurricane.R** - code for creating a new ggplot2 geom for plotting hurricanes on a map
 
