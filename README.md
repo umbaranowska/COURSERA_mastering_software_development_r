@@ -1,5 +1,5 @@
 # COURSERA Mastering Software Development in R Specialization
-Solutions and scripts from Mastering Software Development with R Specialization on Coursera I am currently working on (Dec 2021 - Jan 2022)
+Solutions and scripts from Mastering Software Development with R Specialization on Coursera I am currently working on (Dec 2021 - Jan 2022 - as of March 2022 I had to postpone finishing this course to focus on my MSc)
 
 - **01_The_R_Environment/ReadingAndSummarizingData.R** - Reading and Summarizing Data Quiz Solutions
 - **02_Advanced_R_Programming/factorial_code.R** - 4 approaches to a factorial function: loop, purrr::reduce(), recursion and memoization
